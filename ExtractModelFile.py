@@ -9,6 +9,7 @@ from gpiozero import Motor
 
 model = YOLO("yolov8n.pt")
 
-model.export(format="openvino", 256
+model.export(format="openvino", 256)
+
 
 model = YOLO('yolov8n_openvino_model/')
