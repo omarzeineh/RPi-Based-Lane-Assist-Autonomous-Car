@@ -86,11 +86,3 @@ The result is a system that can:
 - Power bank for stable supply  
 - Car kit base for integration  
 
----
-
-## 📈 Future Improvements
-
-- Adaptive thresholding for better lane detection in variable lighting  
-- Integration with LiDAR/ultrasonic sensors for depth-based obstacle detection  
-- Dynamic PID tuning for sharp turns  
-- Expansion toward multi-lane or curved road environments  
